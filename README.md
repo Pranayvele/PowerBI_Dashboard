@@ -1,10 +1,10 @@
-# 📊 HR Analytics Dashboard (Power BI)
+#   HR Analytics Dashboard (Power BI)
 
 This project is an **HR Analytics Dashboard** created in **Power BI** to analyze employee data and understand attrition trends, work-life balance, and workforce performance.
 
 ---
 
-## 🎯 Purpose of the Dashboard
+##   Purpose of the Dashboard
 
 The goal of this dashboard is to help HR teams:
 
@@ -16,7 +16,7 @@ The goal of this dashboard is to help HR teams:
 
 ---
 
-## 🛠 Tools Used
+##   Tools Used
 
 - Power BI  
 - DAX (Data Analysis Expressions)  
@@ -24,7 +24,7 @@ The goal of this dashboard is to help HR teams:
 
 ---
 
-## 📌 Key Metrics Shown
+##   Key Metrics Shown
 
 - Total Employees  
 - Work Life Balance Score  
@@ -34,7 +34,7 @@ The goal of this dashboard is to help HR teams:
 
 ---
 
-## 📈 Dashboard Insights
+##   Dashboard Insights
 
 The dashboard provides analysis on:
 
@@ -47,17 +47,6 @@ The dashboard provides analysis on:
 
 ---
 
-## 📂 Files in This Repository
-
-| File | Description |
-|------|-------------|
-| HR_Analytics_Dashboard.pbix | Power BI dashboard file |
-| dataset/hr_data.csv | Dataset used for analysis |
-| images/hr_dashboard.png | Dashboard screenshot |
-| README.md | Project documentation |
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file  
@@ -65,11 +54,3 @@ The dashboard provides analysis on:
 3. Explore filters, visuals, and insights  
 
 ---
-
-## 💡 Skills Demonstrated
-
-✔ Data Visualization  
-✔ HR Data Analysis  
-✔ KPI Dashboard Design  
-✔ DAX Calculations  
-✔ Business Insights  
