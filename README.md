@@ -1,71 +1,75 @@
-📊** HR Analytics Dashboard (Power BI)**
+# 📊 HR Analytics Dashboard (Power BI)
 
-This project is an HR Analytics Dashboard created in Power BI to analyze employee data and understand attrition trends, work-life balance, and workforce performance.
+This project is an **HR Analytics Dashboard** created in **Power BI** to analyze employee data and understand attrition trends, work-life balance, and workforce performance.
 
-🎯 Purpose of the Dashboard
+---
+
+## 🎯 Purpose of the Dashboard
 
 The goal of this dashboard is to help HR teams:
 
-Monitor employee attrition
+- Monitor employee attrition  
+- Understand work-life balance trends  
+- Analyze salary and hourly rate patterns  
+- Compare departments and job roles  
+- Track employee demographics  
 
-Understand work-life balance trends
+---
 
-Analyze salary and hourly rate patterns
+## 🛠 Tools Used
 
-Compare departments and job roles
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- HR Dataset (Excel/CSV)
 
-Track employee demographics
+---
 
-🛠 Tools Used
+## 📌 Key Metrics Shown
 
-Power BI
+- Total Employees  
+- Work Life Balance Score  
+- Average Attrition Rate  
+- Average Hourly Rate  
+- Average Working Years
 
-DAX (Data Analysis Expressions)
+---
 
-HR Dataset (Excel/CSV)
-
-📌 Key Metrics Shown
-
-👥 Total Employees
-
-⚖ Work Life Balance Score
-
-🔁 Average Attrition Rate
-
-💰 Average Hourly Rate
-
-📅 Average Working Years
-
-📈 Dashboard Insights
+## 📈 Dashboard Insights
 
 The dashboard provides analysis on:
 
-Attrition by Age
+- Attrition by Age  
+- Attrition by Education  
+- Attrition by Years Since Last Promotion  
+- Work-life balance comparison for Male vs Female  
+- Department-wise Average Hourly Rate  
+- Department performance indicators  
 
-Attrition by Education
+---
 
-Attrition by Years Since Last Promotion
+## 📂 Files in This Repository
 
-Work-life balance comparison for Male vs Female
+| File | Description |
+|------|-------------|
+| HR_Analytics_Dashboard.pbix | Power BI dashboard file |
+| dataset/hr_data.csv | Dataset used for analysis |
+| images/hr_dashboard.png | Dashboard screenshot |
+| README.md | Project documentation |
 
-Department-wise Average Hourly Rate
+---
 
-Department performance indicators
+## 🚀 How to Use
 
-📷 Dashboard Preview
+1. Download the `.pbix` file  
+2. Open it using Power BI Desktop  
+3. Explore filters, visuals, and insights  
 
-(Add your dashboard screenshot inside an images folder and name it hr_dashboard.png)
+---
 
-📂 Files in This Repository
-File	Description
-HR_Analytics_Dashboard.pbix	Power BI dashboard file
-dataset/hr_data.csv	Dataset used for analysis (if shareable)
-images/hr_dashboard.png	Dashboard screenshot
-README.md	Project documentation
-🚀 How to Use
+## 💡 Skills Demonstrated
 
-Download the .pbix file
-
-Open it using Power BI Desktop
-
-Explore filters, visuals, and insights
+✔ Data Visualization  
+✔ HR Data Analysis  
+✔ KPI Dashboard Design  
+✔ DAX Calculations  
+✔ Business Insights  
