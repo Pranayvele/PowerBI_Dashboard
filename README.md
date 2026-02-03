@@ -1,4 +1,4 @@
-📊 HR Analytics Dashboard (Power BI)
+📊** HR Analytics Dashboard (Power BI)**
 
 This project is an HR Analytics Dashboard created in Power BI to analyze employee data and understand attrition trends, work-life balance, and workforce performance.
 
